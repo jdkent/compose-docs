@@ -58,7 +58,7 @@ the steps of a PRISMA workflow:
 
 * **Screening**: Remove irrelevant studies
  
-* **Elibility**: Remove studies that do not meet inclusion criteria or do not have retrievable information
+* **Eligibility**: Remove studies that do not meet inclusion criteria or do not have retrievable information
  
 * **Included**: Double check the studies and view which studies will be included in the meta-analysis
 
